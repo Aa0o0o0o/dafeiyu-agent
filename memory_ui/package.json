@@ -1,0 +1,11 @@
+{
+  "name": "dafeiyu-memory-ui",
+  "version": "2.1.0",
+  "private": true,
+  "dependencies": {
+    "cytoscape": "3.34.4"
+  },
+  "scripts": {
+    "build": "node build.cjs"
+  }
+}

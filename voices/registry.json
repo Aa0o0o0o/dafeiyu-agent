@@ -1,0 +1,96 @@
+{
+  "profiles": {
+    "dafeiyu_suzuran_cn_v1": {
+      "reference": "voices/references/suzuran-cn/CN_010-cn.wav",
+      "reference_text": "这样会着凉的，得赶紧去找毯子。",
+      "reference_language": "zh",
+      "reference_sha256": "be0d55998d3ad22dc6ee02a638e658716b711e063013e3df33e2432f01a3f27c",
+      "duration_seconds": 4.11641800000001,
+      "source_project": "isHarryh/Ark-Voice",
+      "source_commit": "79584841f7a28f9d029ec2dc1b72444bce87eb1e",
+      "source_game_character": "char_358_lisa",
+      "source_voice_clip": "CN_010",
+      "source_start_seconds": 179.264943,
+      "source_end_seconds": 183.381361,
+      "source_actor": [
+        "皛四白"
+      ],
+      "enabled": true,
+      "approved": true,
+      "quality_approved": true,
+      "revision": "suzuran-gsv-production-20261031",
+      "selection_status": "User accepted current result and authorized rollout; GSV chosen to retain existing production engine",
+      "transcript_commit": "409bce70516f2420af61b1fc5680da60e448ab99",
+      "license_notice": "Game audio copyright Hypergryph; source repository restricts commercial use",
+      "preferred_timbre": true,
+      "user_feedback": "效果还行，先上线，后面有需求再改",
+      "speaker_key": "char_358_lisa:CN_MANDARIN",
+      "speech_style": "base",
+      "speech_styles": {
+        "plain": "dafeiyu_suzuran_cn_v1",
+        "gentle": "dafeiyu_suzuran_cn_v1",
+        "serious": "dafeiyu_suzuran_cn_v1",
+        "playful": "dafeiyu_suzuran_cn_happy_v1",
+        "curious": "dafeiyu_suzuran_cn_curious_v1"
+      },
+      "final_selection_received": true
+    },
+    "dafeiyu_suzuran_cn_curious_v1": {
+      "reference": "voices/references/suzuran-cn/CN_001-cn.wav",
+      "reference_text": "博士需要帮忙吗？那学业就一会再说……",
+      "reference_language": "zh",
+      "reference_sha256": "05dd7221e9fb00242939b76cbcffa8dd9faf36bdaba05c0870e4e66ad2972e26",
+      "duration_seconds": 4.97,
+      "source_project": "isHarryh/Ark-Voice",
+      "source_commit": "79584841f7a28f9d029ec2dc1b72444bce87eb1e",
+      "source_game_character": "char_358_lisa",
+      "source_voice_clip": "CN_001",
+      "source_start_seconds": 0.0,
+      "source_end_seconds": 4.97,
+      "source_actor": [
+        "皛四白"
+      ],
+      "enabled": true,
+      "approved": true,
+      "quality_approved": true,
+      "revision": "suzuran-gsv-production-20261031",
+      "selection_status": "User accepted current result and authorized rollout; GSV chosen to retain existing production engine",
+      "transcript_commit": "409bce70516f2420af61b1fc5680da60e448ab99",
+      "license_notice": "Game audio copyright Hypergryph; source repository restricts commercial use",
+      "preferred_timbre": true,
+      "user_feedback": "效果还行，先上线，后面有需求再改",
+      "speaker_key": "char_358_lisa:CN_MANDARIN",
+      "speech_style": "curious",
+      "final_selection_received": true
+    },
+    "dafeiyu_suzuran_cn_happy_v1": {
+      "reference": "voices/references/suzuran-cn/CN_030-cn.wav",
+      "reference_text": "博士，我有好好表现吗？我没有拖大家的后腿吧？真的？太好了……",
+      "reference_language": "zh",
+      "reference_sha256": "a4fb25381ab9bbdfeaf32f709b73518fe2011cb5057a288eb2f28c826555e449",
+      "duration_seconds": 8.460000000000036,
+      "source_project": "isHarryh/Ark-Voice",
+      "source_commit": "79584841f7a28f9d029ec2dc1b72444bce87eb1e",
+      "source_game_character": "char_358_lisa",
+      "source_voice_clip": "CN_030",
+      "source_start_seconds": 270.792313,
+      "source_end_seconds": 279.252313,
+      "source_actor": [
+        "皛四白"
+      ],
+      "enabled": true,
+      "approved": true,
+      "quality_approved": true,
+      "revision": "suzuran-gsv-production-20261031",
+      "selection_status": "User accepted current result and authorized rollout; GSV chosen to retain existing production engine",
+      "transcript_commit": "409bce70516f2420af61b1fc5680da60e448ab99",
+      "license_notice": "Game audio copyright Hypergryph; source repository restricts commercial use",
+      "preferred_timbre": true,
+      "user_feedback": "效果还行，先上线，后面有需求再改",
+      "speaker_key": "char_358_lisa:CN_MANDARIN",
+      "speech_style": "happy",
+      "final_selection_received": true
+    }
+  },
+  "selection_note": "GSV Suzuran A route; gentle baseline plus bounded contextual style references; no Index engine switch"
+}

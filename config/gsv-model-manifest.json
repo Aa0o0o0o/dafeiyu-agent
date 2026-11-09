@@ -1,0 +1,60 @@
+{
+  "repo": "lj1995/GPT-SoVITS",
+  "revision": "8f8857563c040d542de108a2c18b0425abd6c9c5",
+  "files": [
+    {
+      "path": "chinese-hubert-base/config.json",
+      "size": 1449,
+      "sha256": "c3e5060a1277e0f078cc6be9da4528a605dba6ece93018981fe2c820e5c7b103",
+      "upstream_sha256": null
+    },
+    {
+      "path": "chinese-hubert-base/preprocessor_config.json",
+      "size": 212,
+      "sha256": "dcd684124d06722947939d41ea6ae58dbf10968c60a11a29f23ddc602c64a29b",
+      "upstream_sha256": null
+    },
+    {
+      "path": "chinese-hubert-base/pytorch_model.bin",
+      "size": 188811417,
+      "sha256": "24164f129c66499d1346e2aa55f183250c223161ec2770c0da3d3b08cf432d3c",
+      "upstream_sha256": "24164f129c66499d1346e2aa55f183250c223161ec2770c0da3d3b08cf432d3c"
+    },
+    {
+      "path": "chinese-roberta-wwm-ext-large/config.json",
+      "size": 963,
+      "sha256": "3d57de2fd7e80d0e5c8ff194f0bbb6baa10df7e43fc262a0cc71298a78b0a3e5",
+      "upstream_sha256": null
+    },
+    {
+      "path": "chinese-roberta-wwm-ext-large/pytorch_model.bin",
+      "size": 651225145,
+      "sha256": "e53a693acc59ace251d143d068096ae0d7b79e4b1b503fa84c9dcf576448c1d8",
+      "upstream_sha256": "e53a693acc59ace251d143d068096ae0d7b79e4b1b503fa84c9dcf576448c1d8"
+    },
+    {
+      "path": "chinese-roberta-wwm-ext-large/tokenizer.json",
+      "size": 268962,
+      "sha256": "173796956820ea27bd14f76bf28162607ff4254807e2948253eb5b46f5bb643b",
+      "upstream_sha256": null
+    },
+    {
+      "path": "gsv-v5-pretrained/s2Gv5turbo.pth",
+      "size": 766406144,
+      "sha256": "287b32a06b7d486f5303ec520468b0728fb01aac8b0f5d86fd5455c9a1d3e022",
+      "upstream_sha256": "287b32a06b7d486f5303ec520468b0728fb01aac8b0f5d86fd5455c9a1d3e022"
+    },
+    {
+      "path": "gsv-v5-pretrained/vocoder.pth",
+      "size": 57761163,
+      "sha256": "b7543c83222aa2105bb4efb56845086bc5f2eeba61243d723ffa062052b3221f",
+      "upstream_sha256": "b7543c83222aa2105bb4efb56845086bc5f2eeba61243d723ffa062052b3221f"
+    },
+    {
+      "path": "s1v3.ckpt",
+      "size": 155284856,
+      "sha256": "87133414860ea14ff6620c483a3db5ed07b44be42e2c3fcdad65523a729a745a",
+      "upstream_sha256": "87133414860ea14ff6620c483a3db5ed07b44be42e2c3fcdad65523a729a745a"
+    }
+  ]
+}

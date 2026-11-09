@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "ZH-000",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-001",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-002",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-003",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-004",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-005",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-006",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-007",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-008",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-009",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-010",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-011",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-012",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-013",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-014",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-015",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-016",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-017",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-018",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-019",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-020",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-021",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-022",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-023",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-024",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-025",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-026",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-027",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-028",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-029",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-030",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-031",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-032",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-033",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-034",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-035",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-036",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-037",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-038",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-039",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-040",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-041",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-042",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-043",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-044",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-045",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-046",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-047",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-048",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-049",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-050",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-051",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-052",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-053",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-054",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-055",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-056",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-057",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-058",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-059",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-060",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-061",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-062",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-063",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-064",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-065",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-066",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-067",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-068",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-069",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-070",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-071",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-072",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-073",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-074",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-075",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-076",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-077",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-078",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-079",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-080",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-081",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-082",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-083",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-084",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-085",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-086",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-087",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-088",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-089",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-090",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-091",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-092",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-093",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-094",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-095",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-096",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-097",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-098",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-099",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-100",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-101",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-102",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-103",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-104",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-105",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-106",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-107",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-108",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-109",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-110",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-111",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-112",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-113",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-114",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-115",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-116",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-117",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-118",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-119",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-120",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-121",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-122",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-123",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-124",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-125",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-126",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-127",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-128",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-129",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-130",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-131",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-132",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-133",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-134",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-135",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-136",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-137",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-138",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-139",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-140",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-141",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-142",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-143",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-144",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-145",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-146",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-147",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-148",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-149",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-150",
+    "split": "test",
+    "kind": "current",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-151",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-152",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-153",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-154",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-155",
+    "split": "test",
+    "kind": "deletion",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-156",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-157",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-158",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-159",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-160",
+    "split": "test",
+    "kind": "correction",
+    "actor": "12345000",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-161",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-162",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345002",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-163",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-164",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345004",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-165",
+    "split": "test",
+    "kind": "isolation",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-166",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345006",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-167",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-168",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345008",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-169",
+    "split": "development",
+    "kind": "history",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-170",
+    "split": "test",
+    "kind": "no_answer",
+    "actor": "12345000",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-171",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345001",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-172",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345002",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-173",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345003",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-174",
+    "split": "development",
+    "kind": "current",
+    "actor": "12345004",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-175",
+    "split": "test",
+    "kind": "history",
+    "actor": "12345005",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-176",
+    "split": "development",
+    "kind": "no_answer",
+    "actor": "12345006",
+    "scope": "instance:bot:private:12345000",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-177",
+    "split": "development",
+    "kind": "isolation",
+    "actor": "12345007",
+    "scope": "instance:bot:group:111111",
+    "offset_days": 31,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-178",
+    "split": "development",
+    "kind": "correction",
+    "actor": "12345008",
+    "scope": "instance:bot:group:111112",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  },
+  {
+    "id": "ZH-179",
+    "split": "development",
+    "kind": "deletion",
+    "actor": "12345009",
+    "scope": "instance:bot:group:111113",
+    "offset_days": 30.5,
+    "provenance": "synthetic_program_checked_not_human_labelled"
+  }
+]

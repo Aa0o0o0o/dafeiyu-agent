@@ -1,0 +1,28 @@
+{
+  "engine": "GPT-SoVITS-v5-Turbo",
+  "status": "candidate_only",
+  "source_repo": "https://github.com/RVC-Boss/GPT-SoVITS",
+  "source_commit": "b4570b876f5c086819ba84e3215472733c6a7b70",
+  "source_archive_sha256": "6e3c60e767722ff48d164919afa9211ea680981186cf8a5e7920810b6a69c2e7",
+  "model_manifest": "config/gsv-model-manifest.json",
+  "g2pw_audit": "evidence/gsv-g2pw-archive-audit.json",
+  "python": "3.10.22",
+  "torch": "2.8.0+cu128",
+  "device": "RTX4060 Laptop 8GiB",
+  "port": 6211,
+  "reference_registry": "voices/gsv-candidate-registry.json",
+  "reference_status": "Lappland the Decadenza original Mandarin; Japanese previews rejected as electronic by user",
+  "inference": "config/gsv-inference.json",
+  "compatibility": [
+    "pure jieba0.42.1 aliases jieba_fast API because no C++ wheel; frontend and actual synthesis exercised",
+    "onnxruntime CPU for G2PW",
+    "imageio-ffmpeg fixed binary path",
+    "CUDA Graph/Flash Attention disabled pending platform stability evaluation"
+  ],
+  "production_unchanged": true,
+  "quality_approved": false,
+  "asr_qc_not_installed": true,
+  "license_source": "tools/voice/gpt-sovits/LICENSE",
+  "reference_provenance": "voices/references/lappland-decadenza-cn/source.json",
+  "retired_japanese_frontend": "pyopenjtalk-plus/sudachidict-core/sudachipy uninstalled after user rejection; active references are Mandarin only"
+}

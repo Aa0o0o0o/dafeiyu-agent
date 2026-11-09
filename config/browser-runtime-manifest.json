@@ -1,0 +1,13 @@
+{
+  "playwright": "1.64.1",
+  "source": "https://files.pythonhosted.org/packages/96/0a/64db6851aa1852a4f76be28eea71d4e2bf9f3ce493ee2e66939426729046/playwright-1.64.1-py3-none-win_amd64.whl",
+  "installation": "official wheel members verified against RECORD; bundled node.exe omitted",
+  "full_wheel_downloaded": false,
+  "full_wheel_sha256_verified": false,
+  "verified_members": 193,
+  "node_runtime": "tools/node-v24.22.1-win-x64/node.exe",
+  "browser_executable": "tools/browser/chrome/chrome.exe",
+  "chrome_version": "156.0.8078.48",
+  "chrome_origin": "program files copied from installed Google-signed Chrome; no user data copied",
+  "browser_sha256": "480f275b63d1ea39113cbc8344ac395578acc25b432bd39af5fbc77005179aca"
+}

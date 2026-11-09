@@ -1,0 +1,21 @@
+{
+  "package": "sqlcipher3",
+  "version": "0.6.4",
+  "distribution": "CPython 3.13 Windows x86-64 wheel",
+  "wheel_sha256": "f81a6a794a9f29ef5b2c7aaf355127efe85a0906bf14a062c20bd9157ab452ee",
+  "source": "https://pypi.org/project/sqlcipher3/0.6.4/",
+  "upstream": "https://github.com/coleifer/sqlcipher3",
+  "binding_license": "zlib (upstream declaration)",
+  "sqlcipher_core_license": "BSD-3-Clause (upstream declaration)",
+  "wheel_license_files": [
+    "sqlcipher3-0.6.4.dist-info/licenses/LICENSE"
+  ],
+  "embedded_cipher_version": "4.19.0 community",
+  "sqlite_version": "3.53.4",
+  "install": "tools/wechat-sqlcipher-env",
+  "isolation": "project-only Python environment, --no-deps; no modification of chat runtime",
+  "cost": "local component, no per-call charge",
+  "authority": "local synthetics only so far; no WeChat access or key extraction",
+  "exit": "remove project-local isolated environment after explicit scoped cleanup; no global uninstall",
+  "compatibility": "actual WeChat 4.1.15.56, key method, WAL, full history unverified"
+}

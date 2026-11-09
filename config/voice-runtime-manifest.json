@@ -1,0 +1,19 @@
+{
+  "engine": "IndexTTS-2.5",
+  "source_repo": "https://github.com/index-tts/index-tts",
+  "source_commit": "d9e41aac89fd00b3d71497fddb287b7f24613712",
+  "model_revision": "c39ce5ba981572cb187443877ff559dfb246ce63",
+  "python": "3.10.22",
+  "torch": "2.8.0+cu128",
+  "device": "RTX4060 Laptop 8GiB",
+  "precision": "BF16 GPT; other upstream defaults",
+  "compatibility_override": {
+    "opencv-python": "4.12.0.88",
+    "reason": "upstream 4.9 wheel ABI incompatible with numpy2.2.6"
+  },
+  "offload": "tts_service/offload.py stages semantic encoder and GPT on CPU between phases; no weight/precision/step changes",
+  "license": "Bilibili model license; local LICENSE included with checkpoints",
+  "kokoro_license": "Apache-2.0; see official model card",
+  "voices": "voices/registry.json",
+  "quality_status": "USER_DEFERRED_TUNING_FUNCTIONAL_BETA"
+}
